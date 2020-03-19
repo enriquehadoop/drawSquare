@@ -30,5 +30,6 @@ class clsSquare2:
         else:
             print("Value must be greater than 0")
 
+#dibuja un cuadro con diagonal
 cuadro = clsSquare2(10)
 cuadro.builSquare()
